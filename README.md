@@ -24,4 +24,4 @@ python scraper.py
 
 ## Recursos
 
-1. [ACB.com](https://www.acb.com/).
+1. [ACB.com](https://www.acb.com/). Consultado: 2020-11.
