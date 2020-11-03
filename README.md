@@ -18,6 +18,9 @@ Dataset generado a partir de las estadísticas publicadas en la web de la _Liga 
 ```sh
 python scraper.py
 ```
+## DOI
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4243039.svg)](https://doi.org/10.5281/zenodo.4243039)
 
 ## Recursos
 
