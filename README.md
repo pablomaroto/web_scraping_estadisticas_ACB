@@ -2,8 +2,7 @@
 
 ## Descripción
 
-Proyecto realizado para la asignatura _Tipología y ciclo de vida de los datos_ del Máster en Ciencia de Datos de la Universitat Oberta de Catalunya.
-Consiste en generar un dataset a partir de las estadísticas publicadas en la web de la _Liga ACB_.
+Dataset generado a partir de las estadísticas publicadas en la web de la _Liga ACB_.
 
 ## Miembros del equipo
 
