@@ -4,10 +4,6 @@
 
 Dataset generado a partir de las estadísticas publicadas en la web de la _Liga ACB_.
 
-## Miembros del equipo
-
-**Pablo Maroto López**.
-
 ## Ficheros
 
 * **src/scraper.py**: código que realiza las tareas de scraping y genera el dataset.
@@ -25,3 +21,7 @@ python scraper.py
 ## Recursos
 
 1. [ACB.com](https://www.acb.com/). Consultado: 2020-11.
+
+## Miembros del equipo
+
+**Pablo Maroto López**.
